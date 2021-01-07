@@ -15,4 +15,4 @@ Follow my blog ![here](https://blog.therohith.com)
 - 📫 How to reach me: me@therohith.com
 - ⚡ Fun fact: I am an Alien
 
-![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohithCIS&count_private=true&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohithCIS&count_private=true&theme=dracula)
+![Rohith's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohithCIS&count_private=true&show_icons=true&theme=dracula)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohithCIS&count_private=true&layout=compact&theme=dracula)
