@@ -5,8 +5,8 @@ Follow my blog [here](https://blog.therohith.com)
 **RohithCIS/RohithCIS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on a consignment-tracker-api for rolifashions.com
-- 🌱 I’m currently learning ST32 Processors, Embedded Rust, Power Electronics, React-Query, ProstgreSQL
+- 🔭 I’m currently working on a consignment-tracker-api for rolifashions.com, some weekend ricing for my Arch Linux Setup
+- 🌱 I’m currently learning Vim, STM32 Processors, Embedded Rust, Power Electronics, React-Query, PostgreSQL
 - 💬 Ask me about anything
 - 📫 How to reach me: me@therohith.com
 - ⚡ Fun fact: I am an Alien
